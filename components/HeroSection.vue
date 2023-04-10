@@ -28,7 +28,7 @@
           <div class="w-full self-end px-4 md:w-1/2">
             <div class="relative mt-10">
               <img
-                src="../assets/herosection.png"
+                src="../assets/hero.png"
                 alt="Gema Kasih"
                 class="max-w-full mx-auto"
               />
