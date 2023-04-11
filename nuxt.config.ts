@@ -3,7 +3,6 @@ export default defineNuxtConfig({
   modules: [
     "@nuxtjs/tailwindcss",
     "@nuxtjs/color-mode",
-    "nuxt-icon",
     "@nuxtjs/i18n",
   ],
   colorMode: {
@@ -41,12 +40,12 @@ export default defineNuxtConfig({
     }
   },
   // css: ['~/assets/css/main.css'],
-  postcss: {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
-    },
-  },
+  // postcss: {
+  //   plugins: {
+  //     tailwindcss: {},
+  //     autoprefixer: {},
+  //   },
+  // },
   // colorMode: {
   //   preference: "light",
   //   fallback: "light",

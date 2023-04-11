@@ -12,11 +12,10 @@
     "@nuxtjs/color-mode": "^3.2.0",
     "@nuxtjs/i18n": "^8.0.0-beta.10",
     "nuxt": "^3.3.3",
-    "nuxt-icon": "^0.3.3",
     "pug": "^3.0.2"
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.6.5",
-    "vue": "^3.2.47"
+    "@volar-plugins/vetur": "latest"
   }
 }

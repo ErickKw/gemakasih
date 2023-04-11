@@ -1,5 +1,7 @@
 <template>
  <div>
-  <!-- <HeroSection/> -->
+  <HeroSection/>
+  <AboutSection/>
+  <Contact/>
  </div>
 </template>

@@ -1,84 +1,30 @@
 <template>
-  <footer class="bg-dark pt-24 pb-12">
-    <div class="container">
-      <div class="flex flex-wrap">
-
-        <div class="w-full px-4 mb-3 font-medium lg:w-1/4 md:w-1/2 text-white">
-          <div class="border-b border-slate-700">
-            <h3 class="font-bold text-2xl mb-5">Gemakasih</h3>
+  <div>
+    <section id="about" class="pt-36 pb-32">
+      <div class="container">
+        <div class="flex flex-wrap">
+          <div class="w-full px-4 mb-10 lg:w-1/2 lg:text-4xl">
+            <h3 class="font-bold uppercase text-primary text-lg mb-3">
+              Tentang Kami
+            </h3>
+            <p class="font-medium text-base text-secondary max-w-xl">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+              quidem, nesciunt quos, atque minima voluptas obcaecati cumque
+              error quia, porro harum. Facere fugit voluptates voluptas minus
+              doloremque quo velit explicabo?
+            </p>
           </div>
-          <div class="mt-3">
-            <p>Jl Soeharto no 1234455 Bandung Indonesia</p>
-          <h4 class="font-bold text-xl mb-5"> Contact US</h4>
-          <p><b>Email:</b> contact@gemakasih.com</p>
-          <p><b>Telp:</b> +62 21 4567839 ext. 1808</p>
-          </div>
-        </div>
-
-        <div class="w-full px-4 mb-3 font-medium lg:w-1/4 md:w-1/2 text-white">
-          <div class="border-b border-slate-700">
-            <h3 class="font-bold text-2xl mb-5">Pages</h3>
-          </div>
-          <ul class="text-slate-300">
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                About
-              </a>
-            </li>
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                Visi & Misi
-              </a>
-            </li>
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                Organizational Structure
-              </a>
-            </li>
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                Board of Directors
-              </a>
-            </li>
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                Program
-              </a>
-            </li>
-          </ul>
-        </div>
-
-
-
-        <div class="w-full px-4 mb-12 font-medium text-white lg:w-1/4 md:w-1/2">
-          <div class="border-b border-slate-700">
-            <h3 class="font-bold text-2xl mb-5">Post</h3>
-          </div>
-          <ul class="text-slate-300">
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                News
-              </a>
-            </li>
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                Gallery
-              </a>
-            </li>
-            <li>
-              <a href="#" class="inline-block text-base hover:text-primary mb-3">
-                Report
-              </a>
-            </li>
-          </ul>
-        </div>
-
-
-        <div class="w-full px-4 mb-12 font-medium lg:w-1/4 md:w-1/2 text-white">
-          <div class="border-b border-slate-700">
-            <h3 class="font-bold text-2xl mb-5">Social Media</h3>
-          </div>
-          <div class="flex items-center mt-10">
+          <div class="w-full px-4 lg:w-1/2 lg:text-4xl">
+            <h3 class="font-bold uppercase text-primary text-lg mb-3">
+              Sosial Media
+            </h3>
+            <p class="font-medium text-base text-secondary max-w-xl">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores
+              pariatur labore nam. Magni vero laudantium consectetur ut
+              reprehenderit sequi facere sint enim, repellat libero. A tempore
+              nostrum numquam. Illo, voluptatem.
+            </p>
+            <div class="flex items-center mt-2">
               <!-- Instagram -->
               <a
                 class="w-9 h-9 mr-3 rounded-full flex justify-center items-start text-slate-300 hover:text-white border hover:border-primary hover:bg-primary"
@@ -151,24 +97,11 @@
                 </svg>
               </a>
             </div>
+          </div>
         </div>
-
-
       </div>
-
-      <div class="w-full pt-10 border-t border-slate-700">
-        <p class="font-medium text-sm text-center text-slate-500">Copyright &copy; {{ currentYear }} Gemakasih | Created With &#128151; </p>
-      </div>
-    </div>
-  </footer>
+    </section>
+  </div>
 </template>
 
-<script >
-export default {
-  data() {
-    return {
-      currentYear: new Date().getFullYear()
-    }
-  }
-}
-</script>
+<script setup></script>

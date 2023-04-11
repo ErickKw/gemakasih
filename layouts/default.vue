@@ -1,8 +1,7 @@
 <template>
  <div> 
-  <Navbar/>
-   <HeroSection/>
-   <!-- <slot/> -->
-  <!-- <Footer/> -->
+    <NavbarComponents/>
+      <slot/>
+    <Footer/>
  </div>
 </template>
