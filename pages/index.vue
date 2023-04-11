@@ -3,6 +3,7 @@
   <HeroSection/>
   <AboutSection/>
   <Berita/>
+  <Program/>
   <Contact/>
  </div>
 </template>

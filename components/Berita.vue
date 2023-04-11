@@ -1,11 +1,11 @@
 <template>
-  <section id="blog" class="bg-slate-100 pt-36 pb-32 dark:bg-dark">
+  <section id="blog" class="bg-slate-100 pt-10 pb-32 dark:bg-dark">
     <div class="container">
       <div class="w-full px-4">
         <div class="mx-auto mb-16 max-w-xl text-center">
           <h4 class="mb-2 text-lg font-semibold text-primary">Blog</h4>
           <h2
-            class="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl"
+            class=" text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl"
           >
             Berita Terbaru
           </h2>
@@ -99,7 +99,7 @@
               <a
                 href="#"
                 class="rounded-lg bg-primary py-2 px-4 text-sm font-medium text-white hover:opacity-80"
-                >Read More</a
+                >Baca Selengkapnya</a
               >
             </div>
           </div>
