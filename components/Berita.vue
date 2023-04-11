@@ -7,7 +7,7 @@
           <h2
             class="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl"
           >
-            Tulisan Terkini
+            Berita Terbaru
           </h2>
           <p class="text-md font-medium text-secondary md:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
@@ -31,7 +31,7 @@
                 <a
                   href="#"
                   class="mb-3 block truncate text-xl font-semibold text-dark hover:text-primary dark:text-white"
-                  >Tips Belajar Programming</a
+                  >Judul 1</a
                 >
               </h3>
               <p class="mb-6 text-base font-medium text-secondary">
@@ -41,7 +41,7 @@
               <a
                 href="#"
                 class="rounded-lg bg-primary py-2 px-4 text-sm font-medium text-white hover:opacity-80"
-                >Baca Selengkapnya</a
+                >Read More</a
               >
             </div>
           </div>
@@ -60,7 +60,7 @@
                 <a
                   href="#"
                   class="mb-3 block truncate text-xl font-semibold text-dark hover:text-primary dark:text-white"
-                  >Review Keyboard GMMK Pro</a
+                  >Judul 2</a
                 >
               </h3>
               <p class="mb-6 text-base font-medium text-secondary">
@@ -70,7 +70,7 @@
               <a
                 href="#"
                 class="rounded-lg bg-primary py-2 px-4 text-sm font-medium text-white hover:opacity-80"
-                >Baca Selengkapnya</a
+                >Read More</a
               >
             </div>
           </div>
@@ -99,7 +99,7 @@
               <a
                 href="#"
                 class="rounded-lg bg-primary py-2 px-4 text-sm font-medium text-white hover:opacity-80"
-                >Baca Selengkapnya</a
+                >Read More</a
               >
             </div>
           </div>
