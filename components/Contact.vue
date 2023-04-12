@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class=" pt-10 pb-36">
+  <section id="contact" class=" pb-36">
 
     <div class="container">
 

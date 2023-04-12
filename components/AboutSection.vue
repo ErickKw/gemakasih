@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section id="about" class="pt-36 pb-32">
+    <section id="about" class=" pt-36 pb-32">
       <div class="container">
         <div class="flex flex-wrap">
           <div class="w-full px-4 mb-10 lg:w-1/2 lg:text-4xl">
@@ -16,7 +16,7 @@
           </div>
           <div class="w-full px-4 lg:w-1/2 lg:text-4xl">
             <h3 class="font-bold uppercase text-primary text-lg mb-3">
-              Sosial Media
+              Visi Misi
             </h3>
             <p class="font-medium text-base text-secondary max-w-xl">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores

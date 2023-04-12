@@ -39,6 +39,7 @@ export default defineNuxtConfig({
       fallbackLocale: "id-IDN",
     }
   },
+  
   // css: ['~/assets/css/main.css'],
   // postcss: {
   //   plugins: {
