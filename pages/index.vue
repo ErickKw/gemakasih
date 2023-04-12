@@ -10,12 +10,11 @@ useHead({
 </script>
 
 <template>
- <div>
   <HeroSection/>
   <AboutSection/>
   <Program/>
   <Berita/>
   <Galery/>
   <Contact/>
- </div>
+
 </template>
