@@ -1,6 +1,7 @@
 <template>
-  <section id="blog" class="  pt-10 pb-32 dark:bg-dark">
+  <section id="blog" class=" pb-32 dark:bg-dark">
     <div class="container">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#F1F5F9" fill-opacity="1" d="M0,64L60,106.7C120,149,240,235,360,240C480,245,600,171,720,160C840,149,960,203,1080,213.3C1200,224,1320,192,1380,176L1440,160L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path></svg>
       <div class="w-full px-4">
         <div class="mx-auto mb-16 max-w-xl text-center">
           <h4 class="mb-2 text-lg font-semibold text-primary">Blog</h4>

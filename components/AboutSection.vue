@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section id="about" class=" pt-36 pb-32">
+    <section id="about" class="pt-36">
       <div class="container">
         <div class="flex flex-wrap">
           <div class="w-full px-4 mb-10 lg:w-1/2 lg:text-4xl">
@@ -98,6 +98,7 @@
               </a>
             </div>
           </div>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#F1F5F9" fill-opacity="1" d="M0,64L60,106.7C120,149,240,235,360,240C480,245,600,171,720,160C840,149,960,203,1080,213.3C1200,224,1320,192,1380,176L1440,160L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
         </div>
       </div>
     </section>

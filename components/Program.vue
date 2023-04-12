@@ -1,5 +1,6 @@
 <template>
-  <section id="blog" class="bg-slate-100 pt-10 pb-32 dark:bg-dark">
+  <div class="container">
+  <section id="blog" class="bg-slate-100 pt-10 dark:bg-dark">
     <div class="container">
       <div class="w-full px-4">
         <div class="mx-auto mb-16 max-w-xl text-center">
@@ -48,5 +49,7 @@
         </div>
       </div>
     </div>
-  </section>
+    </section>
+  
+  </div>
 </template>
